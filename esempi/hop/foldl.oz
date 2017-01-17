@@ -1,0 +1,1 @@
+% Implementazione della funzione FoldL di ordine 1. 
