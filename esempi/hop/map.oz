@@ -2,8 +2,7 @@
 % Funzione del primo ordine: riceve in input una lista di elementi Xs ed una funzione F,
 % produce in output una lista ottenuta a partire dagli stessi elementi di Xs, trasformati
 % dall'applicazione della funzione F.
-% Map ::= <List T>,<F> -> <List T>
-% F ::= <T> -> <T>
+% Map :: (List A) (A -> B) -> (List B)
 
 local
    fun {Map Xs F}
